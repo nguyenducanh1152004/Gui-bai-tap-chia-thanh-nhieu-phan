@@ -28,10 +28,6 @@ Terminal hoặc giao diện dòng lệnh 💻
 
 🔧 Hướng dẫn cài đặt
 
-Sao chép kho lưu trữ:
-git clone https://github.com/tên-người-dùng/gui-bai-tap-chia-thanh-nhieu-phan.git
-cd gui-bai-tap-chia-thanh-nhieu-phan
-
 
 Cài đặt các thư viện cần thiết:
 pip install cryptography
