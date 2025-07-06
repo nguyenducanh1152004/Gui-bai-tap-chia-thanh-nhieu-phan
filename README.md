@@ -52,4 +52,10 @@ Chạy generate_keys.py để tạo khóa. 🔑
 Sử dụng app.py để gửi tin nhắn từ sender đến receiver. 📤
 Receiver sẽ giải mã và hiển thị tin nhắn. 📥
 
+Ảnh sản phẩm:
+
+Giao diện mã hóa :
+![image](https://github.com/user-attachments/assets/7b40af9d-fb17-40e0-941d-72f1c319f762)
+
+
 
