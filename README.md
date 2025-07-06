@@ -54,8 +54,15 @@ Receiver sẽ giải mã và hiển thị tin nhắn. 📥
 
 Ảnh sản phẩm:
 
-Giao diện mã hóa :
+Giao diện mã hóa ( gửi file và khóa ) :
 ![image](https://github.com/user-attachments/assets/7b40af9d-fb17-40e0-941d-72f1c319f762)
+Giao diện nhận và giải mã :
+![image](https://github.com/user-attachments/assets/71900b28-dbcb-42ee-87b7-6069644fccb7)
+Giao diện hoàn thành và thông báo :
+![image](https://github.com/user-attachments/assets/9f7df852-7775-4390-ac50-e2778d14738a)
+
+
+
 
 
 
