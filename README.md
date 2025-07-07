@@ -21,7 +21,8 @@
 ---
 
 ## Cấu trúc thư mục
-![Cấu trúc thư mục](images/folder.png)
+![image](https://github.com/user-attachments/assets/c0f9637e-257c-4e8e-8c3d-272c026db9ec)
+
 
 ---
 
