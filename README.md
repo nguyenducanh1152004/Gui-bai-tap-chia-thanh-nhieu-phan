@@ -112,31 +112,18 @@ python app.py
 
  Ứng dụng sử dụng Flask với giao diện hiện đại từ Bootstrap.
 
-### 1. Trang chính
 
-![Home](images/home.png)
+### 1. Người gửi
 
-### 2. Người gửi
+![image](https://github.com/user-attachments/assets/45a96c78-6afe-4be9-986a-b9ffed11b61a)
 
-![Sender](images/sender.png)
+---
+### 2. Người nhận
 
-### 3. Người nhận
-
-![receiver](images/receiver.png)
+![image](https://github.com/user-attachments/assets/b83f6385-42cd-452d-b81f-94d4e3b9531f)
 
 ---
 
-## Ví dụ phản hồi ACK / NACK
-
-### 1. ACK
-
-![ACK](images/ack.png)
-
-### 2. NACK
-
-![NACK](images/nack.png)
-
----
 
 ## Thành viên thực hiện
 
